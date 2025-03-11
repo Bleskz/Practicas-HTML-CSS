@@ -1,6 +1,6 @@
 # Practicas-HTML-CSS
 
-## 🚀 Mi Camino en el Desarrollo Web: Proyectos de HTML y CSS
+## 🧠 Mi Camino en el Desarrollo Web: Proyectos de HTML y CSS
 
 Este repositorio documenta mi viaje de aprendizaje en el desarrollo web, desde los conceptos básicos hasta proyectos más avanzados, utilizando **HTML** y **CSS**.
 
